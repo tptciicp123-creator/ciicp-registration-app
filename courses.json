@@ -1,0 +1,20 @@
+[
+  {
+    "id": "c16",
+    "title": "Python Programming",
+    "category": "Programming",
+    "code": "PRG-003",
+    "fee": 6500,
+    "duration": "3 Months",
+    "active": true
+  },
+  {
+    "id": "c21",
+    "title": "Web Development",
+    "category": "Programming",
+    "code": "PRG-008",
+    "fee": 12000,
+    "duration": "4 Months",
+    "active": true
+  }
+]

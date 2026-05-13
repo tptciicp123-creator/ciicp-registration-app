@@ -1,0 +1,160 @@
+[
+  {
+    "courseId": "c16",
+    "courseCode": "PRG-003",
+    "startDate": "2025-06-01",
+    "timing": "06:00 PM - 08:00 PM",
+    "fullName": "NAVEEN A",
+    "gender": "Male",
+    "fatherName": "AYYANDURAI M",
+    "address": "24,Anna Street, Bharathi Nagar, Trichy-628 048",
+    "mobile": "9723564323",
+    "dob": "2008-07-11",
+    "age": 17,
+    "aadhar": "8914-8461-4678",
+    "email": "naveen123@gmail.com",
+    "academics": [
+      {
+        "type": "SSLC",
+        "passed": "SSLC *",
+        "year": "2023",
+        "marks": "87",
+        "institution": "Govt Higher Secondary School, Madurai"
+      },
+      {
+        "type": "HSC",
+        "passed": "HSC",
+        "year": "2025",
+        "marks": "85",
+        "institution": "Govt Higher Secondary School, Madurai"
+      },
+      {
+        "type": "Diploma In",
+        "passed": "",
+        "year": "",
+        "marks": "",
+        "institution": ""
+      },
+      {
+        "type": "Degree",
+        "passed": "",
+        "year": "",
+        "marks": "",
+        "institution": ""
+      },
+      {
+        "type": "PG",
+        "passed": "",
+        "year": "",
+        "marks": "",
+        "institution": ""
+      },
+      {
+        "type": "Others",
+        "passed": "",
+        "year": "",
+        "marks": "",
+        "institution": ""
+      }
+    ],
+    "modeOfAdmission": [
+      "Advertisement"
+    ],
+    "status": "Approved",
+    "workingAt": "",
+    "designation": "",
+    "photoUrl": "blob:http://localhost:5173/86bab7e8-e1c9-43cc-ae9d-3979d60a9325",
+    "appNo": "APP-2025-4248",
+    "password": "naveen123@",
+    "installments": [
+      {
+        "id": 1,
+        "amount": 2500,
+        "dueDate": "2025-05-15",
+        "status": "Pending"
+      }
+    ],
+    "id": 1778487012702,
+    "registeredAt": "2026-05-11T08:10:12.702Z",
+    "uniqueId": "PRG-CS-5882"
+  },
+  {
+    "courseId": "c18",
+    "courseCode": "PRG-005",
+    "startDate": "2025-06-05",
+    "timing": "05:00 PM - 07:00 PM",
+    "fullName": "SAMANTHA V",
+    "gender": "Female",
+    "fatherName": "VENKAT H",
+    "address": "32,Guru Street, Arun Nagar ,Madurai-643 005",
+    "mobile": "9846074202",
+    "dob": "2007-10-11",
+    "age": 18,
+    "aadhar": "8236-7091-4583",
+    "email": "samantha@gmail.com",
+    "academics": [
+      {
+        "type": "SSLC",
+        "passed": "SSLC ",
+        "year": "2023",
+        "marks": "87",
+        "institution": "Govt Higher Secondary School,Madurai"
+      },
+      {
+        "type": "HSC",
+        "passed": "HSC",
+        "year": "2025",
+        "marks": "87",
+        "institution": "Govt Higher Secondary School,Madurai"
+      },
+      {
+        "type": "Diploma In",
+        "passed": "Diploma In",
+        "year": "2027",
+        "marks": "97",
+        "institution": "Thiagarjar Polytechnic College"
+      },
+      {
+        "type": "Degree",
+        "passed": "",
+        "year": "",
+        "marks": "",
+        "institution": ""
+      },
+      {
+        "type": "PG",
+        "passed": "",
+        "year": "",
+        "marks": "",
+        "institution": ""
+      },
+      {
+        "type": "Others",
+        "passed": "",
+        "year": "",
+        "marks": "",
+        "institution": ""
+      }
+    ],
+    "modeOfAdmission": [
+      "Advertisement"
+    ],
+    "status": "Approved",
+    "workingAt": "",
+    "designation": "",
+    "photoUrl": "blob:http://localhost:5173/40670bfc-f329-456c-a589-5dec44e59753",
+    "appNo": "APP-2025-2130",
+    "password": "samantha123",
+    "installments": [
+      {
+        "id": 1,
+        "amount": 2500,
+        "dueDate": "2025-05-15",
+        "status": "Pending"
+      }
+    ],
+    "id": 1778487515280,
+    "registeredAt": "2026-05-11T08:18:35.280Z",
+    "uniqueId": "PRG-CS-7342"
+  }
+]
