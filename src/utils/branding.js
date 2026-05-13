@@ -7,5 +7,5 @@ export const TPT_BRAND = {
     background: "#F8F9FA",
     text: "#1F2937"
   },
-  logo: "/tpt-logo.jpg"
+  logo: `${import.meta.env.BASE_URL}tpt-logo.jpg`
 };
